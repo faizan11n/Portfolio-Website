@@ -87,24 +87,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>CLOUD</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Provisioning and managing scalable AWS infrastructure using Infrastructure as Code tools and core networking fundamentals.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">AWS EC2</div>
+                <div className="what-tags">S3 & EBS</div>
+                <div className="what-tags">IAM & VPC</div>
+                <div className="what-tags">Terraform</div>
+                <div className="what-tags">CloudWatch</div>
+                <div className="what-tags">Networking</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +123,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>AUTOMATION</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Building automated CI/CD pipelines, containerizing applications, and configuring infrastructure seamlessly.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Linux</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">Kubernetes</div>
+                <div className="what-tags">Jenkins</div>
+                <div className="what-tags">Ansible</div>
+                <div className="what-tags">Git/GitHub</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Bash</div>
               </div>
               <div className="what-arrow"></div>
             </div>

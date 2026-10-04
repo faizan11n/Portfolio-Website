@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Cloud and DevOps-focused engineer with practical, project-based exposure to AWS, Linux system administration, Docker, Jenkins, Git/GitHub, Terraform, and Ansible. Comfortable with cloud provisioning, containerization, CI/CD workflows, configuration management, and infrastructure automation through hands-on projects and structured technical training. Familiar with Python and Bash scripting, AWS monitoring, SSH, networking fundamentals, IAM, VPCs, and security groups.
         </p>
       </div>
     </div>
